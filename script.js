@@ -5,7 +5,6 @@ const outputBox = document.querySelector("#output-box");
 
 checkBtn.addEventListener("click", checkBirthDayLucky);
 
-//calculateSum
 function calculateSum() {
   let birthDay = birthDate.value;
   let dob = birthDay.replaceAll("-", "");
