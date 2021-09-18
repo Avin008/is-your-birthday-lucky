@@ -30,7 +30,8 @@ input {
   padding: 0.5rem;
   border-radius: 1rem;
   border-color: gray;
-  outline-style: none;
+  border: none;
+  border: 2px solid gray;
 }
 
 #check-btn {
@@ -40,4 +41,7 @@ input {
   border-radius: 0.8rem;
   font-weight: bold;
   outline-style: none;
+  background-color: #b91c1c;
+  color: white;
+  border: none;
 }
