@@ -1,13 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 
 :root {
-  --primary: ;
-  --secondary: ;
+  --primary: #fde68a;
+  --secondary: #047857;
 }
 
 body {
   margin: 0;
   font-family: "Montserrat", sans-serif;
+  background-color: var(--primary);
 }
 
 .container {
@@ -35,4 +36,8 @@ input {
 #check-btn {
   display: block;
   margin: auto;
+  padding: 0.5rem 1rem;
+  border-radius: 0.8rem;
+  font-weight: bold;
+  outline-style: none;
 }

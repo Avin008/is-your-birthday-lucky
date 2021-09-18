@@ -21,11 +21,11 @@ function checkBirthDayLucky() {
   let sum = calculateSum();
   if (lucky_Num && sum) {
     if (sum % lucky_Num === 0) {
-      outputBox.innerText = "BirthDay Lucky";
+      outputBox.innerText = "Hurray!! Your BirthDay is Lucky";
     } else {
-      outputBox.innerText = "BirthDay not Lucky";
+      outputBox.innerText = "Sorry!! Your Birthday is not so Lucky";
     }
   } else {
-    outputBox.innerText = "both birthday and lucky No field should be filled";
+    outputBox.innerText = "Birth Date and Lucky Number fields cannot be empty";
   }
 }
