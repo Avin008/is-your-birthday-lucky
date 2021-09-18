@@ -7,6 +7,7 @@
 
 body {
   margin: 0;
+  font-family: "Montserrat", sans-serif;
 }
 
 .container {
@@ -27,7 +28,7 @@ input {
   margin-bottom: 0.5rem;
   padding: 0.5rem;
   border-radius: 1rem;
-  border-color: blue;
+  border-color: gray;
   outline-style: none;
 }
 
