@@ -1,6 +1,6 @@
 # is-your-birthday-lucky
 
-A VanillaJS app that takes your date of birth and lucky number tells whether your birthday is lucky or not - (mark 11)
+A VanillaJS app that takes your date of birth and lucky number and tells you whether your birthday is lucky or not - (mark 11)
 
 ## Technologies used:
 
