@@ -5,7 +5,9 @@ it's just a fun app, which you can send to your friends and relatives to let the
 
 ## How to Use 
 Step.1 Enter your date of birth.
+
 step.2 Enter your lucky number.
+
 Step.3 Click on the Check button.
 
 
