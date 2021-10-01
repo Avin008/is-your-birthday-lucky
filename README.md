@@ -1,6 +1,7 @@
 # is your birthday lucky?
 
 A Web app that takes your date of birth and lucky number and tells you whether your birthday is lucky or not.
+
 it's just a fun app, which you can send to your friends and relatives to let them know how lucky or unlucky they are.
 
 ## How to Use 
